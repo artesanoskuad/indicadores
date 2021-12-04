@@ -6,7 +6,9 @@
     <string name="second_fragment_label">Second Fragment</string>
     <string name="next">Next</string>
     <string name="previous">Previous</string>
-    <string name="version">Versión: %1$s</string>
-    <string name="author">Autor: %1$s</string>
-    <string name="fecha">Fecha: %1$s</string>
+    <string name="version">Versión:</string>
+    <string name="author">Autor:</string>
+    <string name="fecha">Fecha:</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
